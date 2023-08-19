@@ -1,4 +1,4 @@
-# Proyecto de Uso de la API Random User con Bootstrap 3.5.1
+# Proyecto de Uso de la API Random User con Bootstrap 5.3.1
 
 Este es un proyecto de ejemplo que utiliza la API Random User para obtener y mostrar información de usuarios aleatorios. El proyecto está implementado en JavaScript y utiliza tecnologías como Fetch API, HTML y Bootstrap 5.3.1 para crear una interfaz simple.
 
